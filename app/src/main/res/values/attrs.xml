@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="appareanceTextHeadline1" format="reference" />
+    <attr name="appareanceTextHeadline2" format="reference" />
+    <attr name="appareanceTextBody1" format="reference" />
+    <attr name="appareanceTextBody2" format="reference" />
+    <attr name="appareanceTextButton" format="reference" />
+
+
+</resources>

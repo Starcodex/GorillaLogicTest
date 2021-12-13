@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gorilla\'s Ice Cream Parlor II</string>
+
+    <string name="step1">Step 1</string>
+    <string name="step2">Step 2</string>
+    <string name="step3">Step 3</string>
+    <string name="thankyou">Thank you</string>
+</resources>
