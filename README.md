@@ -1,6 +1,7 @@
 # GorillaLogicTest  -  Gorilla's Ice Cream parlor II
 
-This is a Demo App using:
+This is a Demo App for an Ice selection using a disc recyclerview.
+
 * Dagger + Room + Retrofit + LiveData + DataBinding.
 
 Servies consumption:
@@ -18,3 +19,4 @@ For icecreams and toppings:
 
 Layouts mockups:
 
+![mockups](mockups.png)
